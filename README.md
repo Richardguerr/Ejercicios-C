@@ -1,4 +1,4 @@
-# Ejercicio N° Aleatorios en C
+﻿# Ejercicio N° Aleatorios en C
 
 _Desarrollado en C_
 
@@ -40,3 +40,4 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 ---
 ⌨️ con ❤️ por [Ricardo Guerrero] 😊
+
